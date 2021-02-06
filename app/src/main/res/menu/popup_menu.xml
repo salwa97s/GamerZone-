@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/ALL" android:title="All Users"/>
+    <item android:id="@+id/Platform" android:title="Same Platform"/>
+    <item android:id="@+id/Games" android:title="Same Games"/>
+</menu>

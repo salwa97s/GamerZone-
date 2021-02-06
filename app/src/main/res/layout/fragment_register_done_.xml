@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.RegisterDone_Fragment"
+    android:background="@drawable/noneback"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:id="@+id/next">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Welcome"
+            android:textSize="70sp"
+            android:textColor="#fff"
+            android:gravity="center"
+            android:fontFamily="@font/vt323"
+            />
+
+        <TextView
+            android:id="@+id/txt_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Salwa"
+            android:textSize="70sp"
+            android:gravity="center"
+            android:fontFamily="@font/vt323"
+            android:textColor="#fcf876"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="You Are Now A Member Of GamersZone"
+            android:textSize="50sp"
+            android:gravity="center"
+            android:textColor="#fff"
+            android:fontFamily="@font/vt323"
+            android:layout_marginTop="15dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="click anywhere to continue"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:textSize="15sp"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

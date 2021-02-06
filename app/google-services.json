@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "481060068505",
+    "firebase_url": "https://chathit-c1d4f.firebaseio.com",
+    "project_id": "chathit-c1d4f",
+    "storage_bucket": "chathit-c1d4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481060068505:android:4292f616f9d34e8c782c08",
+        "android_client_info": {
+          "package_name": "com.example.gamerszone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481060068505-9t1bl0i57n6ui98oq0mc3vutdr72j479.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmVq4bufiJkypPJEKGZ7Tzedw6iLbPw-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481060068505-9t1bl0i57n6ui98oq0mc3vutdr72j479.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
